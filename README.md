@@ -110,9 +110,10 @@ Submit a Pull Request
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 📞 Contact & Support
-📧 Email: support@example.com
-🌍 Website: www.example.com
-📢 Twitter: @SpeechToTextApp
+📧 Email: rizvan.davudov@yahoo.com
+📧 Email: davudovrizvan55@gmail.com
+🌍 Website: https://www.linkedin.com/in/rizvan-davudov-8b995b325/
+
 
 📢 Transform your speech into text effortlessly with Speech to Text! 🎙️📄✨
 
