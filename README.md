@@ -1,13 +1,11 @@
 ## 📸 Screenshots
 
 ### 🏠 Main Screen  
-![Main Screen](IMG_20250228_170413.jpg)
+![Main Screen](IMG_20250228_170607.jpg)
 
 ### 🎤 Speech to Text in Action  
-![Speech to Text](screenshots/speech_to_text.png)
+![Speech to Text](IMG_20250228_170432.jpg)
 
 ### 💾 Save as Word File  
-![Save File](screenshots/save_file.png)
+![Save File](IMG_20250228_170413.jpg)
 
-### ℹ️ About Section  
-![About Section](screenshots/about_section.png)
